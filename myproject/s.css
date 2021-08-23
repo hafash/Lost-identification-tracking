@@ -1,0 +1,40 @@
+body{
+padding:0;
+background-color:#DAF7A6 ;
+}
+.gm
+{
+	margin-bottom:40px;
+	color:GREEN;
+}
+.gm form
+{
+	color:green;
+	font-size:larger;
+}
+input[type]=text
+{
+	width:300px;
+}
+th a:link
+{
+	padding:20px 20px 20px 20px;
+text-decoration:none;
+}
+th a:visited
+{
+text-decoration:none;}
+th a:hover
+{
+	background-color:GREEN;
+text-decoration:none;
+}
+.title{
+	color:black;
+}
+.footer{
+	height="50";
+}
+th a{
+	margin-top -12px;
+}

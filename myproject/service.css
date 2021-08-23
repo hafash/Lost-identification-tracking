@@ -1,0 +1,12 @@
+body
+{
+	background-image:url("im2.jpg");
+}
+.servform
+{
+	color:white;
+	font-size:larger;
+}
+input[type]=text
+{
+	width:300px;

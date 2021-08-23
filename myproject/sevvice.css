@@ -1,0 +1,20 @@
+
+.service 
+{
+	margin-left:400px;
+	margin-bottom:40px;
+	color:GREEN;
+}
+body
+{
+	background-image:url("srvs.PNG");
+}
+.service form
+{
+	color:green;
+	font-size:larger;
+}
+input[type]=text
+{
+	width:300px;
+}

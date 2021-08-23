@@ -1,0 +1,36 @@
+
+.fm 
+{
+	margin-bottom:40px;
+	color:GREEN;
+}
+body
+{
+	background-image:url("im2.jpg");
+}
+.fm form
+{
+	color:green;
+	font-size:larger;
+}
+input[type]=text
+{
+	width:300px;
+}
+th a:link
+{
+	padding:20px 20px 20px 20px;
+text-decoration:none;
+}
+th a:visited
+{
+text-decoration:none;}
+th a:hover
+{
+	background-color:GREEN;
+text-decoration:none;
+}
+footer th a
+{
+	font-size:larger;
+}
